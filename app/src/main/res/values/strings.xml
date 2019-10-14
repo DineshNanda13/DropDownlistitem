@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Drop Down list item</string>
+
+    <string-array name="names">
+        <item>home</item>
+        <item>work</item>
+        <item>others</item>
+        <item>custom</item>
+    </string-array>
+</resources>
